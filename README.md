@@ -3,7 +3,7 @@
 - Graphic Design, Business Development and Marketing. I've started and operated two businesses from the ground up, and I am also
 - a self-employed musician.
 - 🌱 I’m currently learning Python, CSS, JavaScript, and soon to focus on machine learning, ai technologies, and data structures.
-- 💞️ I’m looking to collaborate on interesting and revolutionary projects to acquire and refine my skills and enhance my capabilities.
+- 💞️ I’m looking to collaborate on interesting and revolutionary projects to acquire and refine my skills and enhance my capabilities as an aspiring Software Developer.
 - 📫 How to reach me: janeilchantelle@gmail.com
 
 <!---
