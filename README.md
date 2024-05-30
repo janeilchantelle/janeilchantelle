@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @janeilchantelle
-- 👀 I’m interested in becoming a skilled Software Developer within the technology realm. I have a keen interest in full-stack development as well as UI/UX design. I currently have an extensive background in
-- Graphic Design, Business Development and Marketing. I've developed and operated two businesses from the ground up, and I am also
+- 👀 I’m a Software Developer student with a keen interest in full-stack development as well as UI/UX design. I currently have an extensive background in
+- Graphic Design, Business Development and Marketing. I've created and operated two local businesses and I am also
 - a self-employed musician.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java and soon to focus on Database Management, Cyber Security, AWS, AI Technologies, and Data Structures. 
 - 💞️ I’m looking to connect with others and collaborate on interesting projects to refine my skills and enhance my capabilities as an aspiring Software Developer.
 - 📫 How to reach me: janeilchantelle@gmail.com
 
