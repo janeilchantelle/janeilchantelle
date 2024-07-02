@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @janeilchantelle
-- 👀 I’m a Software Developer student with a keen interest in full-stack development as well as UI/UX design. I currently have an extensive background in
-- Graphic Design, Business Development and Marketing. I've created and operated two local businesses and I am also
-- a self-employed musician.
-- 💞️ I’m looking to connect with others and collaborate on interesting projects to refine my skills and enhance my capabilities as an aspiring Software Developer.
-- 📫 How to reach me: janeilchantelle@gmail.com
+👋 Hi, I’m @janeilchantelle
+
+👀 I’m an aspiring Software Developer with a focus on full-stack development and UI/UX design. I have a diverse background in graphic design and business development, bringing a unique perspective to my projects.
+
+💞️ I love the innovative aspects of programming, with comprehensive expertise in JavaScript, Java, Python, HTML, CSS, React, Node.js, and SQL.
+
+📫 You can each me at janeilchantelle@gmail.com 
 
 <!---
 janeilchantelle/janeilchantelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
