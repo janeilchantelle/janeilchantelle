@@ -4,7 +4,7 @@
 
 💞️ I love the innovative aspects of programming, with comprehensive expertise in JavaScript, Java, Python, HTML, CSS, React, Node.js, and SQL.
 
-📫 You can each me at janeilchantelle@gmail.com 
+📫 You can reach me at janeilchantelle@gmail.com 
 
 <!---
 janeilchantelle/janeilchantelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
